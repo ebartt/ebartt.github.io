@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Ella Bartt</title>
+    <link>/tags/python/</link>
+    <description>Recent content in Python on Ella Bartt</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jan 2026 12:57:26 -0800</lastBuildDate>
+    <atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MacroLab, UCSD</title>
+      <link>/projects/contributions/macrolab/</link>
+      <pubDate>Fri, 30 Jan 2026 12:57:26 -0800</pubDate>
+      <guid>/projects/contributions/macrolab/</guid>
+      <description>&lt;p&gt;• Extracted and organized data from public sources using Python packages Pandas, Scrapy, and BeautifulSoup.&lt;/p&gt;&#xA;&lt;p&gt;• Synthesized data using Python, PowerBI, and Tableau in a study about the privatization of the media industry.&lt;/p&gt;&#xA;&lt;p&gt;• Code for gathering data from public sources can be found on my Github.&lt;/p&gt;&#xA;&lt;p&gt;• Pulitzer prize list project: &lt;a href=&#34;https://github.com/ebartt/pulitzer_soup&#34;&gt;https://github.com/ebartt/pulitzer_soup&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
