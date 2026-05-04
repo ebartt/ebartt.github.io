@@ -1,9 +1,9 @@
 ---
 title: "MacroLab, UCSD"
-date: 2026-01-30T12:57:26-08:00
+date: 2026-04-30T12:57:26-08:00
 featured: true
 description: "Researched publishing industry economic data for UCSD's Macro Lab, led by Professors Andrew DeWaard and Shawna Kidman."
-tags: ["UCSD", "Python"]
+tags: ["UCSD", "Python", "WebScraping"]
 link: "https://macrolab.vercel.app/"
 fact: "Researched publishing industry economic data for UCSD's Macro Lab, led by Professors Andrew DeWaard and Shawna Kidman."
 weight: 500
@@ -11,10 +11,15 @@ sitemap:
   priority : 0.8
 ---
 
+Dates: Sep 2025 - Jun 2026
+
 • Extracted and organized data from public sources using Python packages Pandas, Scrapy, and BeautifulSoup.
 
 • Synthesized data using Python, PowerBI, and Tableau in a study about the privatization of the media industry.
 
-• Code for gathering data from public sources can be found on my Github.
+• Code for gathering data from public sources can be found on my Github, including repositories for gathering the Pulitzer prize list, Booker prize winners, and NYT and Amazon Bestsellers lists.
 
 • Pulitzer prize list project: https://github.com/ebartt/pulitzer_soup
+• NYT project: https://github.com/ebartt/nytscraping_capstone 
+• National Book Award project: https://github.com/ebartt/natlbookaward
+• Amazon bestsellers project: https://github.com/ebartt/amazonbookscrape

@@ -1,4 +1,5 @@
-baseURL = 'https://ellabartt.com/'
+#baseURL = 'https://ellabartt.com/'
+baseURL = "/"
 languageCode = 'en-us'
 title = 'Ella Bartt'
 theme = 'hugo-resume'
@@ -10,7 +11,7 @@ PygmentsStyle = "monokai"
 [params]
 address = "San Diego, CA"
 email = "barttella@gmail.com"
-url = "https://linkedin.com/in/ella-bartt/"
+url = "https://ellabartt.com"
 firstName = "Ella"
 lastName = "Bartt"
 profileImage = "img/IMG_8260.jpeg"
@@ -27,7 +28,7 @@ vcardfields = ["name",
 showContact = true
 #showBoards  = true
 # showCertifications = true
-# showSocializations = true
+showSocializations = true
 # vcardfields = [
 #     "name",
 #     "image",
