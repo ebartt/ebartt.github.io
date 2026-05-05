@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebScraping on Ella Bartt</title>
+    <link>//localhost:1313/tags/webscraping/</link>
+    <description>Recent content in WebScraping on Ella Bartt</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Apr 2026 12:57:26 -0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/webscraping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MacroLab, UCSD</title>
+      <link>//localhost:1313/projects/contributions/macrolab/</link>
+      <pubDate>Thu, 30 Apr 2026 12:57:26 -0800</pubDate>
+      <guid>//localhost:1313/projects/contributions/macrolab/</guid>
+      <description>&lt;p&gt;Dates: Sep 2025 - Jun 2026&lt;/p&gt;&#xA;&lt;p&gt;• Extracted and organized data from public sources using Python packages Pandas, Scrapy, and BeautifulSoup.&lt;/p&gt;&#xA;&lt;p&gt;• Synthesized data using Python, PowerBI, and Tableau in a study about the privatization of the media industry.&lt;/p&gt;&#xA;&lt;p&gt;• Code for gathering data from public sources can be found on my Github, including repositories for gathering the Pulitzer prize list, Booker prize winners, and NYT and Amazon Bestsellers lists.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

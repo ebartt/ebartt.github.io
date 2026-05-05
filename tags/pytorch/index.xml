@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python on Ella Bartt</title>
-    <link>//localhost:1313/tags/python/</link>
-    <description>Recent content in Python on Ella Bartt</description>
+    <title>PyTorch on Ella Bartt</title>
+    <link>//localhost:1313/tags/pytorch/</link>
+    <description>Recent content in PyTorch on Ella Bartt</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 May 2026 12:20:48 -0700</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Char-RNN, LSTM modeling for Goodreads Reviews</title>
       <link>//localhost:1313/projects/contributions/char-rnn/</link>
       <pubDate>Mon, 04 May 2026 12:20:48 -0700</pubDate>
       <guid>//localhost:1313/projects/contributions/char-rnn/</guid>
       <description>&lt;p&gt;Dates: Jan 2026 - Mar 2026&lt;/p&gt;&#xA;&lt;p&gt;• Leveraged a Goodreads romance review dataset to create a Character-level Recurrent Neural Network.&lt;/p&gt;&#xA;&lt;p&gt;• Used machine learning methods from COGS 185 in PyTorch to create the Char-RNN.&lt;/p&gt;&#xA;&lt;p&gt;• Utilized the best models for one- and five-star reviews to generate romance book reviews in the style of Goodreads.&lt;/p&gt;&#xA;&lt;p&gt;The full report can be found in the Github repository.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MacroLab, UCSD</title>
-      <link>//localhost:1313/projects/contributions/macrolab/</link>
-      <pubDate>Thu, 30 Apr 2026 12:57:26 -0800</pubDate>
-      <guid>//localhost:1313/projects/contributions/macrolab/</guid>
-      <description>&lt;p&gt;Dates: Sep 2025 - Jun 2026&lt;/p&gt;&#xA;&lt;p&gt;• Extracted and organized data from public sources using Python packages Pandas, Scrapy, and BeautifulSoup.&lt;/p&gt;&#xA;&lt;p&gt;• Synthesized data using Python, PowerBI, and Tableau in a study about the privatization of the media industry.&lt;/p&gt;&#xA;&lt;p&gt;• Code for gathering data from public sources can be found on my Github, including repositories for gathering the Pulitzer prize list, Booker prize winners, and NYT and Amazon Bestsellers lists.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

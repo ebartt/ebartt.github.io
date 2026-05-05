@@ -12,11 +12,11 @@ EMAIL;TYPE=INTERNET,PREF:barttella@gmail.com
 
 
 
-PHOTO;TYPE=JPG;VALUE=URI:/img/IMG_8260.jpeg
+PHOTO;TYPE=JPG;VALUE=URI://localhost:1313/img/IMG_8260.jpeg
 
 
 
 
-URL:/
+URL://localhost:1313/
 
 END:VCARD
